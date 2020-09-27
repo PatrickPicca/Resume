@@ -18,3 +18,8 @@ LinkedIn: [https://www.linkedin.com/in/william-picca-96a314188/](https://www.lin
 
 Postal Annex (January 2020 - Present)
  - Worked as an essential employee during Covid-19, worked as customer service, shipping and recieving, and U-Hual scheduling.
+ 
+### Achievements:
+
+Phi Theta Kappa Honor Society
+- Alpha Chi Lambda Chapter Member
