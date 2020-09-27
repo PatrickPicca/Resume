@@ -8,7 +8,7 @@
 
 LinkedIn: [https://www.linkedin.com/in/william-picca-96a314188/](https://www.linkedin.com/in/william-picca-96a314188/)
 
-### Education: Associates in Liberal Arts: Mathematics and Science - MiraCosta College 
+### Education: Associates in Liberal Arts: Mathematics and Science - MiraCosta College - December 2019
 
 ### Skills: 
 - Soft Skills: _Time Management, Versatile, Communication, Analytical Mindset_
