@@ -1,4 +1,23 @@
-## Welcome to GitHub Pages
+# Resume
+
+![Image](src)
+
+## William Patrick Picca
+
+### Contact Information: patrickpicca@gmail.com 
+
+LinkedIn: https://www.linkedin.com/in/william-picca-96a314188/
+
+### Education: Associates in Liberal Arts: Mathematics and Science - MiraCosta College 
+
+### Skills: 
+
+### Work Experience:
+
+Postal Annex (January 2020 - Present)
+ - Worked as an essentialy employee during Covid-19, worked as customer service, shipping and recieving, and U-Hual scheduling.
+
+
 
 You can use the [editor on GitHub](https://github.com/PatrickPicca/theme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
