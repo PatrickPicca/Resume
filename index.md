@@ -2,7 +2,7 @@
 
 ## William Patrick Picca
 
-### Contact Information: patrickpicca@gmail.com 
+### Contact Information: patrickpicca@gmail.com(patrickpicca@gmail.com)
 
 LinkedIn: [https://www.linkedin.com/in/william-picca-96a314188/](https://www.linkedin.com/in/william-picca-96a314188/)
 
