@@ -1,6 +1,6 @@
 # Resume
 
-![Image](src)
+![https://github.com/PatrickPicca/theme/blob/gh-pages/face.jpg](face.jpg)
 
 ## William Patrick Picca
 
